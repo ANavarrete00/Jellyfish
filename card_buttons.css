@@ -1,0 +1,4 @@
+/* Show watched and favorite buttons on card hover (theme.css hides them) */
+.cardOverlayButtonIcon:is(.playstatebutton-icon-unplayed, .playstatebutton-icon-played, .favorite) {
+    display: flex !important;
+}

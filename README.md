@@ -155,6 +155,28 @@ Individual users can apply the theme to their own account without affecting othe
 ----
 </p>
 
+**Show Scrollbars**
+`theme.css` hides scrollbars by default. Import this to bring them back.
+
+``` css
+@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/scrollbar.css");
+```
+
+<p align="center">
+----
+</p>
+
+**Watched / Favorite Buttons on Card Hover**
+`theme.css` hides the watched and favorite buttons shown when hovering a card. Import this to show them again.
+
+``` css
+@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/card_buttons.css");
+```
+
+<p align="center">
+----
+</p>
+
 **Text Instead of Icons**
 \
 \
