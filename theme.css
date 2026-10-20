@@ -390,6 +390,7 @@ progress::-webkit-progress-value  /* Filled part of the progress bar (WebKit) */
 /* Styles for the Jellyfin logo when a custom one isn't set by the user. */
 .pageTitleWithDefaultLogo {
     background-image: var(--logo) !important; /* Uses the --logo variable, ensure it's defined in your color scheme files */
+    background-repeat: no-repeat !important;
     background-size: 100% !important; /* Make logo responsive within its container */
 }
 /* Desktop logo dimensions and positioning. */
