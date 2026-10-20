@@ -8,11 +8,11 @@
 */
 
 /* ~~~~~~~~~~~~~~~~~~~~ EXTERNAL IMPORTS ~~~~~~~~~~~~~~~~~~~~ */
-@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/fonts/quicksand.css"); /* Quicksand Font */
+@import url("https://cdn.jsdelivr.net/gh/ANavarrete00/Jellyfish/fonts/quicksand.css"); /* Quicksand Font */
 @import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata/public-icon.css"); /* Metadata icons by Druidblack */
-@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/fonts/materialSymbolsRounded.css");
-@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/loginpage.css");
-@import url("https://cdn.jsdelivr.net/gh/n00bcodr/Jellyfish/colors/jellyblue.css");
+@import url("https://cdn.jsdelivr.net/gh/ANavarrete00/Jellyfish/fonts/materialSymbolsRounded.css");
+@import url("https://cdn.jsdelivr.net/gh/ANavarrete00/Jellyfish/loginpage.css");
+@import url("https://cdn.jsdelivr.net/gh/ANavarrete00/Jellyfish/colors/jellyblue.css");
 
 /* ~~~~~~~~~~~~~~~~~~~~ GLOBAL CSS VARIABLES ~~~~~~~~~~~~~~~~~~~~ */
 /* Defines core variables used throughout the theme for consistency. */
